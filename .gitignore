@@ -1,0 +1,18 @@
+# 前端
+frontend/node_modules/
+frontend/dist/
+
+# 后端
+backend/cis-study-backend/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
