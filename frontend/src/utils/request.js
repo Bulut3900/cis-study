@@ -2,11 +2,10 @@ import axios from 'axios'
 import { ElMessage } from 'element-plus'
 
 const request = axios.create({
-    baseURL: 'http://localhost:8080',   // 后端地址
+    baseURL: '',   // 空字符串，请求 /api/xxx 会被 Nginx 转发到后端
     timeout: 15000
 })
 
-// 响应拦截器
 request.interceptors.response.use(
     response => {
         const res = response.data
