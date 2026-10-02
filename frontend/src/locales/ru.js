@@ -1,0 +1,72 @@
+export default {
+  nav: {
+    home: 'Главная',
+    schools: 'Университеты',
+    apply: 'Подать заявку',
+    about: 'О нас'
+  },
+  home: {
+    heroTitle: 'Учиться в Китае',
+    heroSubtitle: 'От мечты к реальности',
+    heroButton: 'Подать заявку',
+    advantageTitle: 'Почему Китай',
+    advantage1: 'Качественное образование',
+    advantage1Desc: 'Ведущие университеты, признанные в мире',
+    advantage2: 'Низкая стоимость',
+    advantage2Desc: 'Дешевле, чем в Европе и США',
+    advantage3: 'Много стипендий',
+    advantage3Desc: 'Различные стипендии для студентов',
+    advantage4: 'Перспективы',
+    advantage4Desc: 'Хорошие возможности для карьеры',
+    schoolsTitle: 'Наши университеты',
+    viewAll: 'Смотреть все'
+  },
+  school: {
+    listTitle: 'Университеты',
+    detailTitle: 'О университете',
+    city: 'Город',
+    intro: 'Описание',
+    applyNow: 'Подать заявку'
+  },
+  form: {
+    title: 'Онлайн заявка',
+    sectionBasic: 'Основная информация',
+    sectionContact: 'Контакты',
+    sectionEducation: 'Образование',
+    sectionIntention: 'Намерения',
+    fullName: 'Имя',
+    male: 'Мужской',
+    female: 'Женский',
+    gender: 'Пол',
+    birthDate: 'Дата рождения',
+    nationality: 'Гражданство',
+    passportNo: 'Номер паспорта',
+    phone: 'Телефон',
+    email: 'Email',
+    wechat: 'WeChat',
+    whatsapp: 'WhatsApp',
+    currentEducation: 'Текущее образование',
+    currentSchool: 'Текущая школа',
+    targetSchool: 'Желаемый университет',
+    targetMajor: 'Желаемая специальность',
+    targetDegree: 'Степень',
+    intakeYear: 'Год поступления',
+    message: 'Сообщение',
+    submit: 'Отправить',
+    submitting: 'Отправка...',
+    success: 'Заявка отправлена! Мы свяжемся с вами',
+    required: 'Обязательное поле',
+    placeholderName: 'Введите имя',
+    placeholderPhone: 'Введите телефон',
+    placeholderNationality: 'Введите гражданство'
+  },
+    about: {
+    title: 'О нас',
+    intro: 'Мы помогаем студентам из Центральной Азии учиться в Китае',
+    mission: 'Наша миссия',
+    contact: 'Контакты',
+    email: 'Email',
+    whatsapp: 'WhatsApp',
+    wechat: 'WeChat'
+  }
+}

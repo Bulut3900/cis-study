@@ -1,0 +1,72 @@
+export default {
+  nav: {
+    home: '首页',
+    schools: '合作学校',
+    apply: '在线报名',
+    about: '关于我们'
+  },
+  home: {
+    heroTitle: '来中国留学',
+    heroSubtitle: '从梦想走向现实',
+    heroButton: '立即报名',
+    advantageTitle: '为什么选择中国',
+    advantage1: '优质教育',
+    advantage1Desc: '顶尖大学，国际认可学历',
+    advantage2: '学费低廉',
+    advantage2Desc: '相比欧美，性价比更高',
+    advantage3: '奖学金多',
+    advantage3Desc: '多种奖学金可供申请',
+    advantage4: '就业前景',
+    advantage4Desc: '中哈合作，机会广阔',
+    schoolsTitle: '合作院校',
+    viewAll: '查看全部'
+  },
+  school: {
+    listTitle: '合作学校',
+    detailTitle: '学校详情',
+    city: '所在城市',
+    intro: '学校介绍',
+    applyNow: '申请这所学校'
+  },
+  form: {
+    title: '在线报名',
+    sectionBasic: '基本信息',
+    sectionContact: '联系方式',
+    sectionEducation: '教育背景',
+    sectionIntention: '留学意向',
+    fullName: '姓名',
+    gender: '性别',
+    male: '男',
+    female: '女',
+    birthDate: '出生日期',
+    nationality: '国籍',
+    passportNo: '护照号',
+    phone: '电话',
+    email: '邮箱',
+    wechat: '微信',
+    whatsapp: 'WhatsApp',
+    currentEducation: '当前学历',
+    currentSchool: '当前就读学校',
+    targetSchool: '意向学校',
+    targetMajor: '意向专业',
+    targetDegree: '意向学历',
+    intakeYear: '入学年份',
+    message: '留言',
+    submit: '提交报名',
+    submitting: '提交中...',
+    success: '报名成功！我们会尽快联系你',
+    required: '此项必填',
+    placeholderName: '请输入姓名',
+    placeholderPhone: '请输入电话',
+    placeholderNationality: '请输入国籍'
+  },
+    about: {
+    title: '关于我们',
+    intro: '我们致力于帮助中亚学生来中国留学',
+    mission: '我们的使命',
+    contact: '联系方式',
+    email: '邮箱',
+    whatsapp: 'WhatsApp',
+    wechat: '微信'
+  }
+}
